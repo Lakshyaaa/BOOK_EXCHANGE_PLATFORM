@@ -1,4 +1,3 @@
-
 CREATE TABLE users (
 	"user_id" serial PRIMARY KEY NOT NULL,
 	"username" varchar NOT NULL UNIQUE,
